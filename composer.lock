@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "09456c7bcff731588d4467a354a7ef84",
+    "packages": [
+        {
+            "name": "telerivet/telerivet-php-client",
+            "version": "v1.7.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Telerivet/telerivet-php-client.git",
+                "reference": "3c575f9c353209152dab57dab975e9735a1b8fd3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Telerivet/telerivet-php-client/zipball/3c575f9c353209152dab57dab975e9735a1b8fd3",
+                "reference": "3c575f9c353209152dab57dab975e9735a1b8fd3",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "telerivet.php",
+                    "lib/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "PHP client library for Telerivet REST API",
+            "homepage": "https://telerivet.com/api",
+            "support": {
+                "issues": "https://github.com/Telerivet/telerivet-php-client/issues",
+                "source": "https://github.com/Telerivet/telerivet-php-client/tree/v1.7.0"
+            },
+            "time": "2023-06-28T23:17:21+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}

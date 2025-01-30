@@ -1,0 +1,5 @@
+{
+    "require": {
+        "telerivet/telerivet-php-client": "^1.7"
+    }
+}
